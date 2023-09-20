@@ -1,0 +1,79 @@
+#header 
+{
+  
+width:100%;
+ height: 100px ;
+ background-color: rgb(46, 0, 60);
+}
+
+#numbers>div
+{
+    text-align:center ;
+    margin: 5px 0;
+ 
+}
+#numbers
+{
+    margin: 20px 0;
+}
+
+#Name
+{
+   margin-left:220px ;
+color: rgb(255, 0, 0);
+}
+#nav>div
+{
+    display:inline-block ;
+    margin: 0 50px ;
+    color: aqua;
+}
+#header>img
+{
+    width:100px;
+ float:left;
+}
+
+.tablee
+{
+    margin: 0 auto;
+  color: aliceblue;  
+  border: 3px solid grey;
+
+}
+.tablee td
+{
+   
+    text-align:center;
+    color:aliceblue;
+    border:3px solid grey;
+}
+
+.divchik>div
+{
+    margin: 4px auto;
+}
+.forma 
+{
+    width: 600px;
+    margin: 4px auto;
+    padding: 3px 0;
+    background-color: rgb(55, 0, 50);
+    
+}
+.cont
+{
+max-width: 960px;
+}
+#end
+{
+    text-align: center;
+}
+.tablee tr:nth-child(even)
+{
+    background-color: #000000
+}
+.tablee tr:nth-child(odd)
+{
+    background-color: #dfdfdf;
+}
